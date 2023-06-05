@@ -1,18 +1,23 @@
 # Polyrhythm
 
-Este es un proyecto de que sigue el ejemplo de [Hyperplexed](https://www.youtube.com/watch?v=Kt3DavtVGVE&t=926s). La página web muestra un polirritmo que se puede personalizar según la preferencia del usuario.
+This is a fun project following the example of [Hyperplexed](https://www.youtube.com/watch?v=Kt3DavtVGVE&t=926s). The web page displays a polyrhythm that can be customized according to the user's preference.
 
-## Instalación
-Para usar esta página web, simplemente clona este repositorio en tu computadora:
+## Live Demo
+
+You can check out a live demo of the web page [here](https://d4rk4ns.github.io/Polyrhythms/).
+
+## Installation
+To use this web page, simply clone this repository on your computer:
 
 git clone https://github.com/D4rk4ns/Polyrhythms.git
 
-Luego, abre el archivo `index.html` en tu navegador para ver la página web.
+Then, open the `index.html` file in your browser to view the web page.
 
-## Contribuciones
 
-Si deseas contribuir a este proyecto, eres bienvenido a hacerlo. Puedes enviar un pull request para proponer cambios o mejoras.
+## Contributions
 
-## Licencia
+If you wish to contribute to this project, you are welcome to do so. You can submit a pull request to propose changes or improvements.
 
-Este proyecto está bajo la licencia MIT. Puedes usar, modificar y distribuir este código libremente.
+## License
+
+This project is licensed under the MIT license. You can use, modify, and distribute this code freely.
